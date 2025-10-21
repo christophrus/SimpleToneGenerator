@@ -14,7 +14,7 @@ Ein einfacher C#-WPF Sinuston-Generator mit einstellbarer Frequenz und Lautstär
 ## Installation
 
 1. Repository klonen:
-`git clone https://github.com/christophrus/SimpleToneGenerator.git && cd ToneGenerator`  
+`git clone https://github.com/christophrus/SimpleToneGenerator.git && cd SimpleToneGenerator`  
 2. Abhängigkeiten installieren:
 `dotnet restore`  
 3. Anwendung starten:
